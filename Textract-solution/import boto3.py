@@ -1,5 +1,6 @@
 import boto3
 import time
+import pandas as pd
 
 ## Textract APIs:
 # "start_document_text_detection", 
